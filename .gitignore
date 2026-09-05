@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+.claude/
+.env
+.env.local
+data/leads.json
+eval/results.json
+npm-debug.log*
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts

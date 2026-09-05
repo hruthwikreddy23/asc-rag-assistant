@@ -1,0 +1,1520 @@
+[
+  {
+    "name": "12 Panel Instant Drug Test 90mL G-Cup W/ Adulterants",
+    "category": "cup",
+    "panels": 12,
+    "drugs_tested": "THC50, COC150, AMP500, OPI300, MAMP500, PCP25, BAR300, BZO300, MTD300, MDMA500, OXY100, BUP10 (PH/SG/CREA)",
+    "compliance_status": "CLIA Waived + FDA Cleared",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 2.88,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 2.88
+      },
+      {
+        "min_qty": 50,
+        "price_each": 2.85
+      },
+      {
+        "min_qty": 100,
+        "price_each": 2.8
+      },
+      {
+        "min_qty": 200,
+        "price_each": 2.73
+      },
+      {
+        "min_qty": 400,
+        "price_each": 2.66
+      },
+      {
+        "min_qty": 600,
+        "price_each": 2.59
+      },
+      {
+        "min_qty": 800,
+        "price_each": 2.52
+      },
+      {
+        "min_qty": 1000,
+        "price_each": 2.45
+      },
+      {
+        "min_qty": 2000,
+        "price_each": 2.37
+      },
+      {
+        "min_qty": 4000,
+        "price_each": 2.29
+      },
+      {
+        "min_qty": 6000,
+        "price_each": 2.21
+      },
+      {
+        "min_qty": 8000,
+        "price_each": 2.15
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 2.11
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "G-DUD20124N",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%",
+      "Free LC-MS/MS lab confirmation"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/12-panel-instant-drug-test-90-ml-cup-w-adulterants"
+  },
+  {
+    "name": "20 Panel Urine Drug Test 90mL G-Cup W/ Adulterants & FEN, KRA, GAB (Forensic Use Only)",
+    "category": "cup",
+    "panels": 20,
+    "drugs_tested": "AMP500, BUP10, COC150, MDMA500, METH500, OPI300, BZO300, MTD300, OXY100, THC50, PCP25, BAR300, GAB1000, KRA500, KET1000, 6-AM10, ETG500, FEN10, K2-50, TRA100 (PH/SG/CR)",
+    "compliance_status": "Forensic Use Only",
+    "has_fentanyl": true,
+    "has_alcohol": false,
+    "has_etg": true,
+    "has_k2": true,
+    "base_price": 4.88,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 4.88
+      },
+      {
+        "min_qty": 50,
+        "price_each": 4.83
+      },
+      {
+        "min_qty": 100,
+        "price_each": 4.75
+      },
+      {
+        "min_qty": 200,
+        "price_each": 4.64
+      },
+      {
+        "min_qty": 400,
+        "price_each": 4.51
+      },
+      {
+        "min_qty": 600,
+        "price_each": 4.4
+      },
+      {
+        "min_qty": 800,
+        "price_each": 4.28
+      },
+      {
+        "min_qty": 1000,
+        "price_each": 4.15
+      },
+      {
+        "min_qty": 2000,
+        "price_each": 4.02
+      },
+      {
+        "min_qty": 4000,
+        "price_each": 3.89
+      },
+      {
+        "min_qty": 6000,
+        "price_each": 3.75
+      },
+      {
+        "min_qty": 8000,
+        "price_each": 3.65
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 3.57
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "G-DUD0200N",
+    "units_available": null,
+    "offers": [
+      "20% OFF",
+      "Subscribe and save 5%",
+      "Free LC-MS/MS lab confirmation"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/20-panel-urine-drug-test-90-ml-cup-w-adulterants-fen"
+  },
+  {
+    "name": "18 Panel Urine Drug Test 90mL G-Cup W/ Adulterants & FEN, K2, KRA, KET, TRA (Forensic Use Only)",
+    "category": "cup",
+    "panels": 18,
+    "drugs_tested": "AMP500, BAR300, BZO300, BUP10, COC150, ETG500, FEN10, K2-50, MDMA500, MAMP500, MTD300, OPI300, OXY100, PCP25, THC50, TRA100, KRA100, KET1000 (PH/SG/CREA)",
+    "compliance_status": "Forensic Use Only",
+    "has_fentanyl": true,
+    "has_alcohol": false,
+    "has_etg": true,
+    "has_k2": true,
+    "base_price": 4.25,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 4.25
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 3.11
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "G-DUD1188N",
+    "units_available": 100,
+    "offers": [
+      "20% OFF"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/18-panel-urine-drug-test-90-ml-cup-w-adulterants-fen"
+  },
+  {
+    "name": "16 Panel Urine Drug Test 90mL G-Cup W/ Adulterants (Forensic Use Only)",
+    "category": "cup",
+    "panels": 16,
+    "drugs_tested": "OPI300, MDMA500, OXY100, PCP25, COC150, MET500, MTD300, BAR300, BZO300, FYL10, AMP500, THC50, BUP10, ETG500, KRA500, K2 (PH/SG/CREA)",
+    "compliance_status": "Forensic Use Only",
+    "has_fentanyl": true,
+    "has_alcohol": false,
+    "has_etg": true,
+    "has_k2": true,
+    "base_price": 4.0,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 4.0
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 2.93
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "G-DUD2161N",
+    "units_available": 125,
+    "offers": [
+      "20% OFF"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/16-panel-urine-drug-test-90-ml-g-cup-w-adulterants-fen-k2-forensic-use-only"
+  },
+  {
+    "name": "15 Panel Urine Drug Test 90mL G-Cup W/ Adulterants & FEN",
+    "category": "cup",
+    "panels": 15,
+    "drugs_tested": "OPI300, MDMA500, OXY100, PCP25, COC150, MET500, MTD300, BAR300, BZO300, FEN10, AMP500, THC50, BUP10, ETG500, KRA (CRE/SG/PH)",
+    "compliance_status": "CLIA Waived + FDA Cleared",
+    "has_fentanyl": true,
+    "has_alcohol": false,
+    "has_etg": true,
+    "has_k2": false,
+    "base_price": 3.63,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 3.63
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 2.66
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "G-DUD2151N",
+    "units_available": null,
+    "offers": [
+      "20% OFF"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/15-panel-urine-drug-test-90-ml-cup-w-adulterants-fen"
+  },
+  {
+    "name": "14 Panel Drug Screen 90mL G-Cup W/ Adulterants & FYL1",
+    "category": "cup",
+    "panels": 14,
+    "drugs_tested": "AMP500, BAR300, BZO300, BUP10, COC150, THC50, MTD300, MET500, MDMA500, MOP300, PCP25, TCA1000, OXY100, FYL1 (OXI/CRE/PH)",
+    "compliance_status": "CLIA Waived + FDA Cleared",
+    "has_fentanyl": true,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 3.25,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 3.25
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 2.38
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "G-DUD1147N",
+    "units_available": 525,
+    "offers": [
+      "20% OFF"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/14-panel-drug-screen-drug-90-ml-cup-w-adulterants-fyl1"
+  },
+  {
+    "name": "10 panel Urine Drug Screen 90mL G-Cup",
+    "category": "cup",
+    "panels": 10,
+    "drugs_tested": "OXY100, COC150, MET500, MTD300, BAR300, BZO300, AMP500, THC50, BUP10",
+    "compliance_status": "CLIA Waived + FDA Cleared",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 2.63,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 2.63
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 1.92
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "G-CUP5104N",
+    "units_available": null,
+    "offers": [
+      "20% OFF"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/10-panel-urine-drug-screen-90-ml-g-cup"
+  },
+  {
+    "name": "6 panel Urine Drug Test 90mL G-Cup W/ Adulterants",
+    "category": "cup",
+    "panels": 6,
+    "drugs_tested": "THC50, COC150, AMP500, OPI300, MET500, BZO300 (PH/SG/CREA)",
+    "compliance_status": "CLIA Waived + FDA Cleared",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 2.0,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 2.0
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 1.47
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "G-DUD264N",
+    "units_available": 100,
+    "offers": [
+      "20% OFF"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/6-panel-urine-drug-test-90-ml-g-cup-w-adulterants"
+  },
+  {
+    "name": "5 Panel Instant Drug Test 90mL G-Cup W/ Adulterants",
+    "category": "cup",
+    "panels": 5,
+    "drugs_tested": "THC50, COC150, AMP500, OPI300, MET500 (PH/SG/CREA)",
+    "compliance_status": "CLIA Waived + FDA Cleared",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 1.88,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 1.88
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 1.37
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "G-DUD254N",
+    "units_available": null,
+    "offers": [
+      "20% OFF"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/5-panel-instant-drug-test-90-ml-g-cup-w-adulterants"
+  },
+  {
+    "name": "8 panel Urine Drug Test 90mL G-Cup W/ Adulterants",
+    "category": "cup",
+    "panels": 8,
+    "drugs_tested": "THC50, COC150, AMP500, OPI300, BZO300, MTD300, OXY100, BUP10 (PH/SG/CREA)",
+    "compliance_status": "CLIA Waived + FDA Cleared",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 2.25,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 2.25
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 1.65
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "G-DUD184N",
+    "units_available": 975,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/8-panel-urine-drug-test-90-ml-g-cup-w-adulterants"
+  },
+  {
+    "name": "14 Panel Instant Urine Drug Test Dip card",
+    "category": "dip card",
+    "panels": 14,
+    "drugs_tested": "AMP1000, BAR300, BUP10, BZO300, COC300, MDMA500, MET1000, MTD300, OPI2000, OXY100, PCP25, PPX300, TCA1000, THC50",
+    "compliance_status": "CLIA Waived + FDA Cleared",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 3.33,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 3.33
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 2.44
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "HDOA-1144",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/14-panel-instant-urine-drug-test-dip-card"
+  },
+  {
+    "name": "14 Panel Drug Test Urine Dip Card W/ FEN & ETG",
+    "category": "dip card",
+    "panels": 14,
+    "drugs_tested": "AMP1000, BAR300, BUP10, BZO300, COC300, ETG300, FEN10, MDMA500, MET1000, MOP300, MTD300, OXY100, PCP25, THC50",
+    "compliance_status": "Forensic Use Only",
+    "has_fentanyl": true,
+    "has_alcohol": false,
+    "has_etg": true,
+    "has_k2": false,
+    "base_price": 3.88,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 3.88
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 2.84
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "HDOA-6145E3F1",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/14-panel-drug-test-urine-dip-card-w-fen-etg"
+  },
+  {
+    "name": "13 Panel Drug Test Urine Dip Card W/ FEN & ETG",
+    "category": "dip card",
+    "panels": 13,
+    "drugs_tested": "AMP1000, BUP10, BZO300, COC300, ETG300, FEN10, MDMA500, MET1000, MOP300, MTD300, OXY100, THC50, TRA200",
+    "compliance_status": "Forensic Use Only",
+    "has_fentanyl": true,
+    "has_alcohol": false,
+    "has_etg": true,
+    "has_k2": false,
+    "base_price": 4.38,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 4.38
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 3.21
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "HDOA-3135E3F1T",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/13-panel-drug-test-urine-dip-card-w-fen-etg-copy"
+  },
+  {
+    "name": "12 Panel Drug Test Urine Dip Cards W/ Adulterants",
+    "category": "dip card",
+    "panels": 12,
+    "drugs_tested": "AMP1000, BAR300, BUP10, BZO300, COC300, MDMA500, MET1000, MOP300, MTD300, OXY100, PCP25, THC50 (OX/SG/PH)",
+    "compliance_status": "CLIA Waived + FDA Cleared",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 3.43,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 3.43
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 2.51
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "HDOA-6125A3",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/12-panel-drug-test-urine-dip-cards"
+  },
+  {
+    "name": "12 Panel Rapid Drug Test Urine Dip card",
+    "category": "dip card",
+    "panels": 12,
+    "drugs_tested": "AMP1000, BAR300, BZO300, COC300, MDMA500, MET1000, MTD300, OPI2000, OXY100, PCP25, PPX300, THC50",
+    "compliance_status": "CLIA Waived + FDA Cleared",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 2.98,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 2.98
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 2.18
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "HDOA-1124",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/12-panel-rapid-drug-test-urine-dip-card"
+  },
+  {
+    "name": "12 Panel Multi Screen Drug Dip card",
+    "category": "dip card",
+    "panels": 12,
+    "drugs_tested": "AMP1000, BAR300, BZO300, COC300, MDMA500, MET1000, MOP300, MTD300, OXY100, PCP25, TCA1000, THC50",
+    "compliance_status": "CLIA Waived + FDA Cleared",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 2.98,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 2.98
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 2.18
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "HDOA-5125",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/12-panel-multi-screen-drug-dip-card"
+  },
+  {
+    "name": "12 Panel Urine Drug Test Dip Card",
+    "category": "dip card",
+    "panels": 12,
+    "drugs_tested": "THC, COC, AMP, MOP, MAMP, PCP, BAR, BZO, MTD, MDMA, OXY, BUP",
+    "compliance_status": "CLIA Waived + FDA Cleared",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 2.48,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 2.48
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 1.81
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "PREDX-DOA6124N",
+    "units_available": 700,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/12-panel-urine-drug-test-dip-card"
+  },
+  {
+    "name": "14 Panel Multi Drug Test Dip Card with ETG & FEN",
+    "category": "dip card",
+    "panels": 14,
+    "drugs_tested": "AMP1000, OPI300, MET1000, BZO300, COC300, MTD300, OXY100, BUP10, MDMA500, THC50, BAR300, PCP25, FEN20, ETG300",
+    "compliance_status": "Forensic Use Only",
+    "has_fentanyl": true,
+    "has_alcohol": false,
+    "has_etg": true,
+    "has_k2": false,
+    "base_price": 2.75,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 2.75
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 2.01
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "DOA-9145FUO",
+    "units_available": 1400,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/14-panel-multi-drug-test-dip-card"
+  },
+  {
+    "name": "12 Panel Multi Drug Dip Card",
+    "category": "dip card",
+    "panels": 12,
+    "drugs_tested": "AMP1000, BAR300, BUP10, BZO300, COC300, MDMA500, MET1000, MTD300, OPI300, OXY100, PCP25, THC50",
+    "compliance_status": "CLIA Waived + FDA Cleared",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 2.33,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 2.33
+      },
+      {
+        "min_qty": 1000,
+        "price_each": 2.1
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "DOA-6125",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/12-panel-multi-drug-dip-card"
+  },
+  {
+    "name": "13 Panel Multi-Drug Instant Oral Fluid Test Device with FEN",
+    "category": "oral",
+    "panels": 13,
+    "drugs_tested": "AMP, BUP, BZO, COC, MET, MTD, OPI, OXY, PCP, THC, FEN, ALCO, K2",
+    "compliance_status": "FDA Cleared",
+    "has_fentanyl": true,
+    "has_alcohol": true,
+    "has_etg": false,
+    "has_k2": true,
+    "base_price": 3.7,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 3.7
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 2.71
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "SALIVASTIK-2134",
+    "units_available": 1300,
+    "offers": [
+      "20% OFF"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/13-panel-multi-drug-instant-oral-fluid-test-device-with-fen"
+  },
+  {
+    "name": "12 Panel Multi-Drug Rapid Oral Fluid Test Device",
+    "category": "oral",
+    "panels": 12,
+    "drugs_tested": "AMP, BAR, BUP, BZO, COC, MET, MTD, OPI, OXY, PCP, THC, ALC",
+    "compliance_status": "CLIA Waived + FDA Cleared",
+    "has_fentanyl": false,
+    "has_alcohol": true,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 3.3,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 3.3
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 2.42
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "SALIVASTIK-3114",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/12-panel-multi-drug-rapid-oral-fluid-test-device"
+  },
+  {
+    "name": "10 Panel Multi-Drug Instant Saliva Fluid Test Device",
+    "category": "oral",
+    "panels": 10,
+    "drugs_tested": "AMP, BAR, BUP, BZO, COC, MET, OPI, OXY, PCP, THC",
+    "compliance_status": "CLIA Waived + FDA Cleared",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 3.05,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 3.05
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 2.23
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "SALIVASTIK-17104",
+    "units_available": 300,
+    "offers": [
+      "20% OFF"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/10-panel-multi-drug-instant-saliva-fluid-test-device"
+  },
+  {
+    "name": "9 Panel Multi-Drug Instant Oral Fluid Test Device",
+    "category": "oral",
+    "panels": 9,
+    "drugs_tested": "AMP, BAR, BUP, BZO, COC, MET, OPI, OXY, PCP",
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 2.93,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 2.93
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 2.14
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "SALIVASTIK-17105",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/9-panel-multi-drug-instant-oral-fluid-test-device"
+  },
+  {
+    "name": "7 Panel Multi-Drug Rapid Oral Fluid Test Device with ALCO",
+    "category": "oral",
+    "panels": 7,
+    "drugs_tested": "AMP50, COC20, MET50, OPI40, PCP10, THC40, ALC",
+    "compliance_status": "CLIA Waived + FDA Cleared",
+    "has_fentanyl": false,
+    "has_alcohol": true,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 2.75,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 2.75
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 2.01
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "SALIVASTIK-164A",
+    "units_available": 68,
+    "offers": [
+      "20% OFF"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/7-panel-multi-drug-rapid-oral-fluid-test-device"
+  },
+  {
+    "name": "6 Panel Multi-Drug Instant Oral Fluid Test Device",
+    "category": "oral",
+    "panels": 6,
+    "drugs_tested": "AMP, COC, OPI, MET, BZO, OXY",
+    "compliance_status": "CLIA Waived + FDA Cleared",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 2.38,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 2.38
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 1.74
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "SALIVASTIK-364",
+    "units_available": 475,
+    "offers": [
+      "20% OFF"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/6-panel-multi-drug-instant-oral-fluid-test-device"
+  },
+  {
+    "name": "5 Panel Multi-Drug Rapid Oral Fluid Test Device",
+    "category": "oral",
+    "panels": 5,
+    "drugs_tested": "AMP, COC, OPI, MET, THC",
+    "compliance_status": "CLIA Waived + FDA Cleared",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 2.38,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 2.38
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 1.74
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "SALIVASTIK-254",
+    "units_available": null,
+    "offers": [
+      "20% OFF"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/5-panel-saliva-stik-oral-fluid-device"
+  },
+  {
+    "name": "14 Panel Oral Swab Drug Test with ALCO",
+    "category": "oral",
+    "panels": 14,
+    "drugs_tested": "AMP, BAR, BUP, BZO, COC, FEN10, K2, MAMP, MTD, OPI, OXY, PCP, THC, ALCO",
+    "compliance_status": "FDA Cleared",
+    "has_fentanyl": true,
+    "has_alcohol": true,
+    "has_etg": false,
+    "has_k2": true,
+    "base_price": 5.75,
+    "price_tiers": [],
+    "case_size": "Case of 25",
+    "sku": "C-25134W/ALCO",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/14-panel-oral-swab-drug-test"
+  },
+  {
+    "name": "10 Panel Oral Swab Drug Test",
+    "category": "oral",
+    "panels": 10,
+    "drugs_tested": "AMP, OPI, THC, COC, PCP, OXY, BZO, BAR, MAMP, BUP",
+    "compliance_status": "CLIA Waived + FDA Cleared",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 5.0,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 5.0
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 3.66
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "C-17104",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/10-panel-oral-swab-drug-test"
+  },
+  {
+    "name": "15 panel Oral Swab Drug Test with ALCO",
+    "category": "oral",
+    "panels": 15,
+    "drugs_tested": "AMP, BAR, BUP, BZO, COC, COT, FEN, K2, MAMP, MDMA, MTD, OPI, OXY, PCP, THC, ALCO",
+    "compliance_status": "Not Specified",
+    "has_fentanyl": true,
+    "has_alcohol": true,
+    "has_etg": false,
+    "has_k2": true,
+    "base_price": 5.6,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 5.6
+      },
+      {
+        "min_qty": 10000,
+        "price_each": 4.1
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "C-31154 W/ALCO",
+    "units_available": 3950,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/15-panel-oral-swab-drug-test-with-alco"
+  },
+  {
+    "name": "Fentanyl Test Strip Kit",
+    "category": "strip",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 1.65,
+    "price_tiers": [],
+    "case_size": "Case of 5",
+    "sku": "DFY-X01",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/fentanyl-test-strip-kit"
+  },
+  {
+    "name": "Drug Adulteration Test Strip",
+    "category": "strip",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 26.87,
+    "price_tiers": [],
+    "case_size": null,
+    "sku": "D700-25G",
+    "units_available": 55,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/drug-adulteration-test-strip"
+  },
+  {
+    "name": "Cotinine Test Strips",
+    "category": "strip",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 0.42,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 0.42
+      },
+      {
+        "min_qty": 1000,
+        "price_each": 0.38
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "DOA-COTSP",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/cotinine-test-strips"
+  },
+  {
+    "name": "Gabapentin Drug Test Strips",
+    "category": "strip",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 0.59,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 0.59
+      },
+      {
+        "min_qty": 1000,
+        "price_each": 0.53
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "DOA-GABSCN",
+    "units_available": null,
+    "offers": [
+      "Free LC-MS/MS lab confirmation"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/gabapentin-drug-test-strips"
+  },
+  {
+    "name": "Ketamine Drug Test Strip",
+    "category": "strip",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 0.38,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 0.38
+      },
+      {
+        "min_qty": 1000,
+        "price_each": 0.34
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "DOA-KETSP",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/ketamine-drug-test-strip"
+  },
+  {
+    "name": "Psilocybin Drug Test Mushroom Strip",
+    "category": "strip",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 0.45,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 0.45
+      },
+      {
+        "min_qty": 1000,
+        "price_each": 0.4
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "DOA-PYSCN",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/psilocybin-drug-test-mushroom-strip"
+  },
+  {
+    "name": "LSD Drug Test Strip",
+    "category": "strip",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 0.45,
+    "price_tiers": [
+      {
+        "min_qty": 25,
+        "price_each": 0.45
+      },
+      {
+        "min_qty": 1000,
+        "price_each": 0.4
+      }
+    ],
+    "case_size": "Case of 25",
+    "sku": "DOA-LSDSCN",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/lsd-drug-test-strip"
+  },
+  {
+    "name": "Alco Screen Alcohol Test Strips",
+    "category": "strip",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "CLIA Waived",
+    "has_fentanyl": false,
+    "has_alcohol": true,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 3.05,
+    "price_tiers": [
+      {
+        "min_qty": 24,
+        "price_each": 3.05
+      },
+      {
+        "min_qty": 960,
+        "price_each": 2.73
+      }
+    ],
+    "case_size": "Case of 24",
+    "sku": "ALCO02",
+    "units_available": 24,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/alco-screen-alcohol-test-strips"
+  },
+  {
+    "name": "AlcoMate Revo Breathalyzer",
+    "category": "breathalyzer",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": true,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 300,
+    "price_tiers": [
+      {
+        "min_qty": 1,
+        "price_each": 300
+      },
+      {
+        "min_qty": 50,
+        "price_each": 279
+      }
+    ],
+    "case_size": null,
+    "sku": "AlcoMate Revo",
+    "units_available": 6,
+    "offers": [
+      "Free LC-MS/MS lab confirmation"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/alcomate-revo-breathalyzer"
+  },
+  {
+    "name": "AT800 Fuel Cell Keychain Breathalyzer",
+    "category": "breathalyzer",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": true,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 49,
+    "price_tiers": [
+      {
+        "min_qty": 1,
+        "price_each": 49
+      },
+      {
+        "min_qty": 50,
+        "price_each": 45.57
+      }
+    ],
+    "case_size": null,
+    "sku": "AT800",
+    "units_available": 38,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/at800-fuel-cell-keychain-breathalyzer"
+  },
+  {
+    "name": "BACtrack S80 Professional Breathalyzer",
+    "category": "breathalyzer",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": true,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 324.98,
+    "price_tiers": [
+      {
+        "min_qty": 1,
+        "price_each": 324.98
+      },
+      {
+        "min_qty": 50,
+        "price_each": 302.23
+      }
+    ],
+    "case_size": null,
+    "sku": "BT-S80",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/bactrack-s80-professional-breathalyzer"
+  },
+  {
+    "name": "Alcomate Prestige AL6000 Breathalyzer",
+    "category": "breathalyzer",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": true,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 168.75,
+    "price_tiers": [
+      {
+        "min_qty": 1,
+        "price_each": 168.75
+      },
+      {
+        "min_qty": 50,
+        "price_each": 156.94
+      }
+    ],
+    "case_size": null,
+    "sku": "AL6000BR",
+    "units_available": 4,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/alcomate-prestige-al6000-breathalyzer"
+  },
+  {
+    "name": "AlcoMate Premium (AL7000) BASIC",
+    "category": "breathalyzer",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": true,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 162.5,
+    "price_tiers": [],
+    "case_size": null,
+    "sku": "AL7000S",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/alcomate-premium-al7000-basic"
+  },
+  {
+    "name": "AlcoScan AL2500 Breathalyzer",
+    "category": "breathalyzer",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": true,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 62.5,
+    "price_tiers": [],
+    "case_size": null,
+    "sku": "AL2500S",
+    "units_available": 13,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/alcoscan-al2500-breathalyzer"
+  },
+  {
+    "name": "AlcoMate Breathalyzer Mouthpieces",
+    "category": "breathalyzer",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": true,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 0.63,
+    "price_tiers": [
+      {
+        "min_qty": 50,
+        "price_each": 0.63
+      },
+      {
+        "min_qty": 2500,
+        "price_each": 0.58
+      }
+    ],
+    "case_size": "Case of 50",
+    "sku": "MOUTHPIECES",
+    "units_available": 3900,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/alcomate-breathalyzer-mouthpieces"
+  },
+  {
+    "name": "90 mL Specimen Cup",
+    "category": "specimen",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 0.33,
+    "price_tiers": [
+      {
+        "min_qty": 400,
+        "price_each": 0.33
+      },
+      {
+        "min_qty": 160000,
+        "price_each": 0.24
+      }
+    ],
+    "case_size": "Case of 400",
+    "sku": "39405G",
+    "units_available": 336000,
+    "offers": [
+      "20% OFF"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/90ml-specimen-cup"
+  },
+  {
+    "name": "90 mL Specimen Cups with Temperature Strip",
+    "category": "specimen",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 0.58,
+    "price_tiers": [],
+    "case_size": "Case of 100",
+    "sku": "39405G-100",
+    "units_available": 4300,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/90ml-specimen-cup-with-temperature-strip"
+  },
+  {
+    "name": "45mL Flip-Top Specimen Cups",
+    "category": "specimen",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 0.38,
+    "price_tiers": [
+      {
+        "min_qty": 400,
+        "price_each": 0.38
+      },
+      {
+        "min_qty": 16000,
+        "price_each": 0.3
+      }
+    ],
+    "case_size": "Case of 400",
+    "sku": "ASC-VIAL",
+    "units_available": 4800,
+    "offers": [
+      "Free LC-MS/MS lab confirmation"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/45ml-flip-top-specimen-cups"
+  },
+  {
+    "name": "45 mL Flip Top Specimen Urine Cup",
+    "category": "specimen",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 0.35,
+    "price_tiers": [],
+    "case_size": "Case of 1000",
+    "sku": "74829G",
+    "units_available": 4000,
+    "offers": [
+      "Free LC-MS/MS lab confirmation"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/45ml-specimen-urine-cup"
+  },
+  {
+    "name": "190 mL Beaker Cup (No Temperature Strip)",
+    "category": "specimen",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 0.45,
+    "price_tiers": [],
+    "case_size": null,
+    "sku": "841020",
+    "units_available": null,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/190ml-beaker-cup-no-temperature-strip"
+  },
+  {
+    "name": "10 mL Urine Tube",
+    "category": "specimen",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 0.18,
+    "price_tiers": [],
+    "case_size": "Case of 100",
+    "sku": "ASC-TUBE",
+    "units_available": 215500,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/10-ml-urine-tube"
+  },
+  {
+    "name": "Specimen Collector Pans",
+    "category": "specimen",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 1.81,
+    "price_tiers": [
+      {
+        "min_qty": 100,
+        "price_each": 1.81
+      },
+      {
+        "min_qty": 4000,
+        "price_each": 1.61
+      }
+    ],
+    "case_size": "Case of 100",
+    "sku": "1455876",
+    "units_available": 100,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/specimen-collector-pans"
+  },
+  {
+    "name": "Biohazard Specimen Bags",
+    "category": "specimen",
+    "panels": null,
+    "drugs_tested": null,
+    "compliance_status": "Not Specified",
+    "has_fentanyl": false,
+    "has_alcohol": false,
+    "has_etg": false,
+    "has_k2": false,
+    "base_price": 0.17,
+    "price_tiers": [
+      {
+        "min_qty": 1000,
+        "price_each": 0.17
+      },
+      {
+        "min_qty": 40000,
+        "price_each": 0.15
+      }
+    ],
+    "case_size": null,
+    "sku": "1190237",
+    "units_available": 36000,
+    "offers": [
+      "Subscribe and save 5%"
+    ],
+    "url": "https://www.americanscreeningcorp.com/products/biohazard-specimen-bags"
+  }
+]
