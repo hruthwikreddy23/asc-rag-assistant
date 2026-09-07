@@ -13,6 +13,9 @@
   --warn-bg: #fff6e8;
   --warn-border: #f0c987;
   --danger: #b3261e;
+  --upside-bg: #f5f2fc;
+  --upside-border: #d3c2f2;
+  --upside-text: #6b3fa0;
   --shadow: 0 1px 2px rgba(16, 24, 32, 0.04), 0 4px 16px rgba(16, 24, 32, 0.06);
 }
 
@@ -42,6 +45,18 @@ body {
   padding: 1.5rem 1rem;
 }
 
+.split-layout {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.split-layout-active {
+  gap: 1rem;
+  max-width: 1400px;
+  align-items: stretch;
+}
+
 .chat-window {
   width: 100%;
   max-width: 860px;
@@ -53,6 +68,43 @@ body {
   overflow: hidden;
   min-height: 72vh;
   box-shadow: var(--shadow);
+}
+
+.split-layout-active .chat-window {
+  max-width: none;
+  flex: 1 1 50%;
+  min-width: 0;
+}
+
+.roi-panel {
+  flex: 1 1 50%;
+  min-width: 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+  min-height: 72vh;
+  max-height: 72vh;
+  overflow-y: auto;
+  padding: 1.5rem;
+}
+
+@media (max-width: 900px) {
+  .split-layout-active {
+    flex-direction: column;
+  }
+
+  .split-layout-active .chat-window,
+  .roi-panel {
+    max-width: none;
+    width: 100%;
+    flex: none;
+  }
+
+  .roi-panel {
+    min-height: 60vh;
+    max-height: 60vh;
+  }
 }
 
 /* Header */
@@ -83,6 +135,12 @@ body {
   font-size: 0.8rem;
 }
 
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
 .contact-team-link {
   display: flex;
   align-items: center;
@@ -101,6 +159,17 @@ body {
 .contact-team-link:hover {
   border-color: var(--brand);
   background: var(--brand-soft);
+}
+
+.contact-team-link-active {
+  background: var(--brand);
+  border-color: var(--brand);
+  color: white;
+}
+
+.contact-team-link-active:hover {
+  background: var(--brand-dark);
+  border-color: var(--brand-dark);
 }
 
 /* Avatar */
@@ -623,6 +692,272 @@ body {
 
 .PhoneInputCountryIcon {
   width: 22px;
+}
+
+/* ROI calculator */
+
+.roi-calculator {
+  display: flex;
+  flex-direction: column;
+}
+
+.roi-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 0.75rem;
+}
+
+.roi-header h2 {
+  margin: 0 0 0.3rem;
+  font-size: 1.05rem;
+}
+
+.roi-header p {
+  margin: 0;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+.roi-close {
+  flex-shrink: 0;
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  padding: 0.25rem;
+  border-radius: 6px;
+  display: flex;
+}
+
+.roi-close:hover {
+  background: var(--assistant-bubble);
+  color: var(--text);
+}
+
+.roi-stat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 0.75rem;
+  margin: 1.1rem 0;
+}
+
+.roi-stat-card {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0.75rem;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.roi-stat-label {
+  font-size: 0.68rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+.roi-stat-value {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.roi-stat-highlight {
+  background: var(--brand-soft);
+  border-color: var(--brand);
+}
+
+.roi-stat-highlight .roi-stat-value {
+  color: var(--brand-dark);
+}
+
+.roi-section {
+  margin: 1.1rem 0;
+}
+
+.roi-section-label {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  margin-bottom: 0.5rem;
+}
+
+.roi-hosting-toggle {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.roi-toggle-btn {
+  text-align: left;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.6rem 0.8rem;
+  background: var(--surface);
+  font-size: 0.82rem;
+  cursor: pointer;
+  color: var(--text);
+}
+
+.roi-toggle-btn:hover {
+  border-color: var(--brand);
+}
+
+.roi-toggle-btn-active {
+  border-color: var(--brand);
+  background: var(--brand-soft);
+  font-weight: 600;
+  color: var(--brand-dark);
+}
+
+.roi-sliders {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+  margin-bottom: 0.9rem;
+}
+
+.roi-slider-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  font-size: 0.82rem;
+}
+
+.roi-slider-label-row {
+  display: flex;
+  justify-content: space-between;
+  color: var(--text);
+}
+
+.roi-slider-value {
+  font-weight: 600;
+  color: var(--brand-dark);
+}
+
+.roi-slider-row input[type="range"] {
+  accent-color: var(--brand);
+  width: 100%;
+}
+
+.roi-reset-button {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  align-self: flex-start;
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.45rem 0.8rem;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  cursor: pointer;
+  margin-bottom: 1.3rem;
+}
+
+.roi-reset-button:hover {
+  border-color: var(--text-muted);
+  color: var(--text);
+}
+
+.roi-results {
+  margin-bottom: 1.1rem;
+}
+
+.roi-results-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0.6rem 1rem;
+  margin: 0 0 1rem;
+}
+
+.roi-results-grid > div {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.roi-results-grid dt {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+}
+
+.roi-results-grid dd {
+  margin: 0;
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.roi-headline {
+  display: flex;
+  gap: 0.75rem;
+  background: var(--brand);
+  border-radius: 10px;
+  padding: 0.9rem 1rem;
+}
+
+.roi-headline > div {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.roi-headline-label {
+  font-size: 0.7rem;
+  color: rgba(255, 255, 255, 0.8);
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+.roi-headline-value {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: white;
+}
+
+.roi-upside {
+  background: var(--upside-bg);
+  border: 1px solid var(--upside-border);
+  border-radius: 10px;
+  padding: 0.85rem 1rem;
+  margin-bottom: 1.1rem;
+}
+
+.roi-upside-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--upside-text);
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+.roi-upside p {
+  margin: 0.35rem 0 0;
+  font-size: 0.83rem;
+  color: var(--text);
+  line-height: 1.5;
+}
+
+.roi-upside strong {
+  color: var(--upside-text);
+}
+
+.roi-footnote {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+  border-top: 1px solid var(--border);
+  padding-top: 0.9rem;
+  margin: 0;
 }
 
 /* Disclaimer footer */

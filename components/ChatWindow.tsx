@@ -1,11 +1,12 @@
 "use client";
 
 import { useState, useRef, useEffect } from "react";
-import { Send, MessageCircleQuestion } from "lucide-react";
+import { Send, MessageCircleQuestion, Calculator } from "lucide-react";
 import type { UiChatMessage } from "@/lib/types";
 import type { ChatApiResponse } from "@/app/api/chat/route";
 import { timeAwareGreeting } from "@/lib/time";
 import MessageBubble from "./MessageBubble";
+import RoiCalculator from "./RoiCalculator";
 
 const EXAMPLE_QUERIES = [
   "I need a CLIA-waived 12-panel cup with fentanyl for a rehab clinic, roughly what's bulk price?",
@@ -18,6 +19,7 @@ export default function ChatWindow() {
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [showRoi, setShowRoi] = useState(false);
   const bottomRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -86,6 +88,7 @@ export default function ChatWindow() {
   }
 
   return (
+    <div className={`split-layout${showRoi ? " split-layout-active" : ""}`}>
     <div className="chat-window">
       <header className="chat-header">
         <div className="chat-header-identity">
@@ -95,10 +98,19 @@ export default function ChatWindow() {
             <p>ASC Product &amp; Compliance Assistant</p>
           </div>
         </div>
-        <button className="contact-team-link" onClick={offerContactForm}>
-          <MessageCircleQuestion size={15} />
-          Contact the team
-        </button>
+        <div className="header-actions">
+          <button className="contact-team-link" onClick={offerContactForm}>
+            <MessageCircleQuestion size={15} />
+            Contact the team
+          </button>
+          <button
+            className={`contact-team-link${showRoi ? " contact-team-link-active" : ""}`}
+            onClick={() => setShowRoi((v) => !v)}
+          >
+            <Calculator size={15} />
+            ROI Calculator
+          </button>
+        </div>
       </header>
 
       <div className="chat-log">
@@ -155,6 +167,13 @@ export default function ChatWindow() {
           <Send size={17} />
         </button>
       </form>
+    </div>
+
+    {showRoi && (
+      <div className="roi-panel">
+        <RoiCalculator onClose={() => setShowRoi(false)} />
+      </div>
+    )}
     </div>
   );
 }
