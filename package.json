@@ -1,5 +1,5 @@
 {
-  "name": "asc-assistant",
+  "name": "asc-rag-assistant",
   "version": "0.1.0",
   "private": true,
   "description": "ASC Product & Compliance Assistant — a grounded, guardrailed product-finder chat assistant. Independent portfolio project, not affiliated with American Screening Corp.",
